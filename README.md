@@ -1,1 +1,9 @@
 # CS250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- In-depth discussions with the client and the Product Owner are crucial to designing and writing proper requirements for any product. By creating short, simple, to-the-point user stories, the requirements are humanized and put into an easily interpreted perspective that allows the developers to see requirements as pieces of necessary code (or other product element) to make the product do what the user has requested.
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+- There is a lot of pre-thinking that goes into the development process, including the very important step of organizing a team to do the work who can mirror the principles of agile efficiently. Processes such as Scrum and the mentality of accepting failure and embracing change are all elements of agile that I believe will be extraordinarily helpful in any future endeavors I choose to embark on. Keeping in mind the general feel and framework of the agile methodology means that adapting to both the business needs and the development process are crucial to my future success.
+
+What does it mean to be a good team member in software development?
+- Teamwork is a huge proponenet of good software development creation; it's important to remember that working as a team allows for the spread of responsibility as well as the reassurance of having assistance when necessary. There are times where I might know something a fellow team member does not, and being a part of a team means that I share my experience and knowledge freely. Helping each other and pushing each other within the agile boundaries of the project means that not only does the team function like a well-oiled machine, but everyone is making a substantial contribution to increasing the business value and satisfying the client.
